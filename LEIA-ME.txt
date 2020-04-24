@@ -1,3 +1,0 @@
-Para inicializar o site, abra o arquivo 'Gramatica'.
-
-- Vittorio Perotto.
